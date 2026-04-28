@@ -74,20 +74,6 @@
 <td>Completed</td>
 </tr>
 
-<tr>
-<td>Register File</td>
-<td>Basic register bank</td>
-<td>Read/Write operations</td>
-<td>In Progress</td>
-</tr>
-
-<tr>
-<td>Simple CPU</td>
-<td>Learning datapath & control</td>
-<td>Instruction flow, ALU control</td>
-<td>Planned</td>
-</tr>
-
 </table>
 
 ---
