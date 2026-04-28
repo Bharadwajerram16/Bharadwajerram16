@@ -150,9 +150,12 @@
 </p>
 
 <p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=bharadwajcollege&theme=dark_2" width="55%" />
+  <img src="https://cf-stats.vercel.app/api?username=bharadwajcollege&theme=dark" width="55%" />
 </p>
 
+<p align="center">
+  <img src="https://codechef-api.vercel.app/handle/bharadwaj_1611/status" width="55%" />
+</p>
 ---
 
 ## 🏆 Achievements
