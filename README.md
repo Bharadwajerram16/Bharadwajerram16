@@ -146,18 +146,9 @@
 ## 📈 Live Coding Stats
 
 <p align="center">
-  <img src="https://leetcode-stats-six.vercel.app/?username=bharadwajerram_1611&theme=dark" width="55%" />
+  <img src="https://leetcard.jacoblin.cool/bharadwajerram_1611?theme=dark&ext=heatmap" width="55%" />
 </p>
 
-<p align="center">
-  <img src="https://cf-stats.vercel.app/api?username=bharadwajcollege" width="55%" />
-</p>
-
-<p align="center">
-  <a href="https://www.codechef.com/users/bharadwaj_1611">
-    <img src="https://img.shields.io/badge/CodeChef-bharadwaj_1611-brown?style=for-the-badge&logo=codechef" />
-  </a>
-</p>
 ---
 
 ## 🏆 Achievements
