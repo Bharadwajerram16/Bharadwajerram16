@@ -95,9 +95,8 @@
 ## 💻 Tech Stack
 
 **Hardware**
-- Verilog / SystemVerilog  
-- Vivado  
-- ModelSim  
+- Verilog / SystemVerilog
+- VHDL
 
 **Programming**
 - C / C++  
@@ -106,9 +105,10 @@
 
 **Tools**
 - Git & GitHub  
-- VS Code  
-- Linux  
-
+- VS Code
+- Multisim
+- Modelsim
+- AMD Vivado
 ---
 
 ## 📊 GitHub Statistics
